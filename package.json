@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://narendraiiitl.github.io/referme",
+  "homepage": "https://tripti-g.github.io/ref/",
   "dependencies": {
     "@babel/plugin-syntax-jsx": "^7.16.7",
     "@emotion/react": "^11.8.2",
